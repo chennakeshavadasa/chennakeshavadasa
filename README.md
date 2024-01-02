@@ -38,7 +38,7 @@
 
 - I love **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
 
-🚀 **GitHub Repositories:**
+ ## GitHub Repositories 🚀
 
 - [GitHub Profile]([[https://github.com/your_username](https://github.com/chennakeshavadasa)](https://github.com/chennakeshavadasa))
   - 2 Stage OPAMP Deisgn: [Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology]
