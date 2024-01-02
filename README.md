@@ -19,27 +19,25 @@
 <a href="https://www.linkedin.com/in/nithin-purushothama-70664727b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nithin-purushothama-70664727b/" height="30" width="40" /></a>
 <a href="https://twitter.com/nithinpuru75919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nithinpuru75919" height="30" width="40" /></a>
   
-## 📬 Contact 📬
+##  Contact 📬
 **Mail me here: [:e-mail:](mailto:nithinpurushothama@gmail.com)**
 
 
 
 
-## 🛠️ Current Projects 
+##  Current Projects 🛠️
 
 - Working on the development of a C-band Low Noise Amplifier (LNA) as part of an in-house product development and educational support at the Master Control Facility - ISRO.
   
-## 🔬 Academic Pursuits 
+##  Academic Pursuits 🔬
 
 - Currently pursuing an B.E degree in Electronics and Communication Engineering.
 - Actively learning Analog, RF, ASIC Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
 
-## 🌐 Interests Beyond Academics  
+##  Interests Beyond Academics 🌐 
 
 - I love **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
 
  ## 🚀 GitHub Repositories 🚀
 
-- [GitHub Profile]([[https://github.com/chennakeshavadasa])
-  - 2 Stage OPAMP Deisgn: [Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology]
-  - Battery Management System: [Battery-Management-System-Using-BQ76925/https://github.com/chennakeshavadasa/Battery-Management-System-Using-BQ76925]
+All of my projects are available at : [Nithin's Projects](https://github.com/chennakeshavadasa?tab=repositories)
