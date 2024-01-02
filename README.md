@@ -40,6 +40,6 @@
 
  ## GitHub Repositories 🚀
 
-- [GitHub Profile]([[https://github.com/your_username](https://github.com/chennakeshavadasa)](https://github.com/chennakeshavadasa))
+- [GitHub Profile]([[https://github.com/chennakeshavadasa](https://github.com/chennakeshavadasa)](https://github.com/chennakeshavadasa))
   - 2 Stage OPAMP Deisgn: [Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology]
   - Battery Management System: [Battery-Management-System-Using-BQ76925/https://github.com/chennakeshavadasa/Battery-Management-System-Using-BQ76925]
