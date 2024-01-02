@@ -25,19 +25,18 @@
 
 
 
-🛠️ **Current Projects:**
+## Current Projects 🛠️
 
 - Working on the development of a C-band Low Noise Amplifier (LNA) as part of an in-house product development and educational support at the Master Control Facility - ISRO.
   
-🔬 **Academic Pursuits:**
+## Academic Pursuits 🔬
 
 - Currently pursuing an B.E degree in Electronics and Communication Engineering.
 - Actively learning Analog, RF, ASIC Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
 
-🌐 **Interests Beyond Academics:**
+## Interests Beyond Academics 🌐 
 
-- Exploring intersections between hardware design and Machine Learning.
-- Passionate about the implementation of Digital Signal Processing techniques in real-world applications.
+- I love **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
 
 🚀 **GitHub Repositories:**
 
