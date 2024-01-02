@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electrical and Communication Engineering (ECE) with a keen interest in several domains, including:
+👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in several domains, including:
 
 - **Analog Design:** Passionate about crafting efficient and reliable analog circuits.
 - **RF Design:** Delving into the intricacies of Radio Frequency design for various applications.
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/nithinpuru75919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nithinpuru75919" height="30" width="40" /></a>
   
 ## Contact 📬
-**Mail me here: [:e-mail:](nithinpurushothama@gmail.com)**
+**Mail me here: [:e-mail:](mailto:nithinpurushothama@gmail.com)**
 
 
 
