@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Nithin P</h1>
+<h3 align="center">Welcome to my Github Profile</h3>
+
 # About Me
 
 👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in several domains, including:
