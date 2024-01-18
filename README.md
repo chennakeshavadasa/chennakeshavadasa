@@ -27,7 +27,7 @@
 
 ##  Current Projects 🛠️
 
-- Working on the development of a C-band Low Noise Amplifier (LNA) as part of an in-house product development and educational support at the Master Control Facility - ISRO.
+- Working on the development of a C-band Low Noise Amplifier (LNA).
   
 ##  Academic Pursuits 🔬
 
