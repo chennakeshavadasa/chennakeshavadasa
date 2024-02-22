@@ -37,8 +37,9 @@
 ##  Interests Beyond Academics 🌐 
 
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
-- 
+
  ## 📈 GitHub Stats
+ I'm just grinding !!!
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical)
 
