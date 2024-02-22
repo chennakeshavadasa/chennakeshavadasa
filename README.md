@@ -16,7 +16,7 @@
 
 ## 🌐 Contact Me:
 
-**Mail me here: [:e-mail:](mailto:nithinpurushothama@gmail.com)**
+**Mail: [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com)**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nithin-purushothama-70664727b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nithin-purushothama-70664727b/" height="30" width="40" /></a>
