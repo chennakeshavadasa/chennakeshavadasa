@@ -14,15 +14,13 @@
 - **Software Defined Radios:** Fascinated by the flexibility and programmability offered by software-defined radio systems.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
+
+**Mail me here: [:e-mail:](mailto:nithinpurushothama@gmail.com)**
+
 <p align="left">
 <a href="https://www.linkedin.com/in/nithin-purushothama-70664727b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nithin-purushothama-70664727b/" height="30" width="40" /></a>
 <a href="https://twitter.com/nithinpuru75919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nithinpuru75919" height="30" width="40" /></a>
-  
-##  Contact 📬
-**Mail me here: [:e-mail:](mailto:nithinpurushothama@gmail.com)**
-
-
 
 
 ##  Current Projects 🛠️
