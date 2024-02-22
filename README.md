@@ -43,7 +43,7 @@
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical)
 
- ## 🚀 GitHub Repositories 🚀
+ ## 🚀 Projects 🚀
  
 
 All of my projects are available at : [Nithin's Projects](https://github.com/chennakeshavadasa?tab=repositories)
