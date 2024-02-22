@@ -39,5 +39,8 @@
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
 
  ## 🚀 GitHub Repositories 🚀
+ 
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical)
+
 
 All of my projects are available at : [Nithin's Projects](https://github.com/chennakeshavadasa?tab=repositories)
