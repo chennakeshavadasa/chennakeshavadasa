@@ -8,9 +8,9 @@
 
 ## 🌐 Contact Me:
 
-**Email: [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com)**
-**Linkedin: [Linkedin](https://www.linkedin.com/in/nithin-purushothama-70664727b/)**
-**Twitter: [Twitter](https://twitter.com/nithinpuru75919)**
+- **Email: [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com)**
+- **Linkedin: [Linkedin](https://www.linkedin.com/in/nithin-purushothama-70664727b/)**
+- **Twitter: [Twitter](https://twitter.com/nithinpuru75919)**
 
 ##  Current Projects 🛠️
 
