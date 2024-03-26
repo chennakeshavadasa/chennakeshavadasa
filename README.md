@@ -4,15 +4,7 @@
 
 # About Me ☺️
 
-👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in several domains, including:
-
-- **Analog Design:** Passionate about crafting efficient and reliable analog circuits.
-- **RF Design:** Delving into the intricacies of Radio Frequency design for various applications.
-- **Digital ASIC Design:** Excited about designing digital circuits at the application-specific integrated circuit (ASIC) level.
-- **Machine Learning:** Exploring the vast possibilities of machine learning applications.
-- **Digital Signal Processing:** Engaging in signal processing techniques for various applications.
-- **Software Defined Radios:** Fascinated by the flexibility and programmability offered by software-defined radio systems.
-
+👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in Analog/RF Design, ASIC Design and Machine Learning.
 
 ## 🌐 Contact Me:
 
