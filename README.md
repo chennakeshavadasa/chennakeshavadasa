@@ -6,7 +6,7 @@
 
 👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in Analog/RF Design, ASIC Design and Machine Learning.
   
-##  Academic Pursuits 🔬
+## 🔬 Academic Pursuits 
 
 - Currently pursuing an B.E degree in Electronics and Communication Engineering.
 - Actively learning Analog, RF, ASIC Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
@@ -17,11 +17,11 @@
 - **Linkedin: [Linkedin](https://www.linkedin.com/in/nithin-purushothama-70664727b/)**
 - **Twitter: [Twitter](https://twitter.com/nithinpuru75919)**
 
-##  Current Projects 🛠️
+## 🛠️ Current Projects 
 
 - Working on the development of a C-band Low Noise Amplifier (LNA).
 
-##  Interests Beyond Academics 🌐 
+## 🌐 Interests Beyond Academics  
 
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
 
