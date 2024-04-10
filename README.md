@@ -23,7 +23,7 @@
 
 ## 🌐 Interests Beyond Academics  
 
-- I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games..
+- I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games.
 
  ## 📈 GitHub Stats
  I'm just grinding !!!
