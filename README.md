@@ -4,12 +4,12 @@
 
 # About Me ☺️
 
-👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in Analog/RF Design, ASIC Design and Machine Learning.
+👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in Analog/RF Design and Machine Learning.
   
 ## 🔬 Academic Pursuits 
 
-- Currently pursuing an B.E degree in Electronics and Communication Engineering.
-- Actively learning Analog, RF, ASIC Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
+- Currently pursuing B.E degree in Electronics and Communication Engineering.
+- Actively learning Analog, RF, Mixed signal Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
 
 ## 🌐 Contact Me:
 
