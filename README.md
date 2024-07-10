@@ -20,7 +20,7 @@
 
 ## 🛠️ Current Projects 
 
-- Working on the Research and development of a Low power LDO(Low drop-out Regulator) for IOT Applications and C-band Low Noise Amplifier (LNA).
+- Working on Research and development of a Low power LDO(Low drop-out Regulator) for IOT Applications and C-band Low Noise Amplifier (LNA).
 
 ## 🌐 Interests Beyond Academics  
 
