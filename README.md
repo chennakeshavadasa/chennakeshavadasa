@@ -9,7 +9,7 @@
 ## 🔬 Academic Pursuits 
 
 - Currently pursuing B.E degree in Electronics and Communication Engineering.
-- Actively learning Analog, RF, Mixed signal Design using Cadence Virtuoso and open-source tools like NGspice and Skywater130pdk.
+- Actively learning Analog, RF, Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice and Skywater130pdk.
 - Learning about Finance sector and Data Analysis with the implication of ML. 
 
 ## 🌐 Contact Me:
@@ -20,7 +20,7 @@
 
 ## 🛠️ Current Projects 
 
-- Working on Research and development of a Low power LDO(Low drop-out Regulator) for IOT Applications and C-band Low Noise Amplifier (LNA).
+- Working on Research and development of a Low power LDOs(Low drop-out Regulator) for IOT Applications and C-band Low Noise Amplifier (LNA).
 
 ## 🌐 Interests Beyond Academics  
 
