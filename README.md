@@ -32,7 +32,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical" alt="My GitHub stats">
 </div>
-<div align="center"> ![](https://komarev.com/ghpvc/?username=chennakeshavadasa&color=blue) </div>
 
  ## 🚀 Projects 🚀
  
