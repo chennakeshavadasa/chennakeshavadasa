@@ -9,8 +9,8 @@
 ## 🔬 Academic Pursuits 
 
 - Currently pursuing B.E degree in Electronics and Communication Engineering.
-- Actively learning Analog, RF, Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice and Skywater130pdk.
-- Learning about Finance sector and Data Analysis with the implication of ML. 
+- Actively learning Analog, RF and Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice, Google Skywater130PDK, Global Foundries GF180MCUPDK and IHP130PDK.
+- I'm fascinated about Finance sector and Data Analysis with the implication of ML. 
 
 ## 🌐 Contact Me:
 
