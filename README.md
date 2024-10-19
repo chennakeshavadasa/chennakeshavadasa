@@ -30,9 +30,7 @@
  ## 📈 GitHub Stats
  I'm just grinding !!!
  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical" alt="My GitHub stats">
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&theme=radical" alt="My GitHub stats"></div> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa &layout=compact&theme=buefy&hide_border=true" /></a> |
 
  ## 🚀 Projects 🚀
  
