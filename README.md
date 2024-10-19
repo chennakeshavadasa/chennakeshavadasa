@@ -28,7 +28,7 @@
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games.
 
  ## 📈 GitHub Stats
- I'm just grinding !!!
+ I'm just grinding !!! <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chennakeshava's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&theme=buefy&hide_border=true" /> 
 
 
