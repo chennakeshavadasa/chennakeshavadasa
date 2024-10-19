@@ -31,9 +31,10 @@
  I'm just grinding !!! <br>
  
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chennakeshava's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=FF5F7E&text_color=00F4F5&icon_color=FFC300&bg_color=0D1117&ring_color=8B008B" alt="Chennakeshava's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&theme=dark&hide_border=true&title_color=FF5F7E&text_color=00F4F5&bg_color=0D1117" />
 </div>
+
 
 
  ## 🚀 Projects 🚀
