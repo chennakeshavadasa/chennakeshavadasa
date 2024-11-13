@@ -11,7 +11,7 @@
 - Currently pursuing B.E degree in Electronics and Communication Engineering.
 - Actively learning Analog, RF and Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice, Google Skywater130 PDK, Global Foundries GF180MCU PDK and IHP130 PDK.
 - I have worked on OTAs, LDOs, Badgap References, Ring Amplifiers and Comparators.
-- I'm fascinated about Finance sector and Data Analysis with the implication of ML. 
+- I'm fascinated about Finance sector especially with Financial Data Analysis with the implication of ML. 
 
 ## 🌐 Contact Me:
 
