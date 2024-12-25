@@ -4,7 +4,7 @@
 
 # About Me ☺️
 
-👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE) with a keen interest in  AI Hardware, Analog/Mixed Signal/RF Design, Finance and Machine Learning.
+👋 Hello! I'm Nithin P, an enthusiastic B.E. student in Electronics and Communication Engineering (ECE). My interests include ultra-low-power data converters, in-memory computing, Edge AI, and low-power PMICs.
   
 ## 🔬 Academic Pursuits 
 
