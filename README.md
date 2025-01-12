@@ -19,9 +19,6 @@
 - **Linkedin: [Linkedin](https://www.linkedin.com/in/nithin-purushothama-70664727b/)**
 - **Twitter: [Twitter](https://twitter.com/nithinpuru75919)**
 
-## 🛠️ Current Projects 
-
-- Working on Low power Fast Transient LDOs (Low drop-out Regulator) for IOT Applications and C-band Low Noise Amplifier (LNA).
 
 ## 🌐 Interests Beyond Academics  
 
