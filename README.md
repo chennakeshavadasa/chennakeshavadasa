@@ -11,7 +11,7 @@
 - Currently pursuing B.E degree in Electronics and Communication Engineering.
 - Actively learning Analog/RF/Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice, Google Skywater130 PDK, Global Foundries GF180MCU PDK and IHP130 PDK.
 - I have worked on ADCs, DACs, Ring Amplifiers, Comparators, OTAs, LDOs and Bandgap References.
-- I worked on  IHP SG13G2(130nm), SKY130(130nm), GF180MCU(180nm), TSMC65nm(65nm), GPDK90(95nm), GPDK180(180nm), SCL180(180nm) Process nodes.
+- I worked on  IHP SG13G2(130nm), SKY130(130nm), GF180MCU(180nm), TSMC65(65nm), GPDK90(95nm), GPDK180(180nm), SCL180(180nm) Process nodes.
 - I'm fascinated about Finance sector especially with Data Analysis with the implication of ML. 
 
 ## 🌐 Contact Me:
