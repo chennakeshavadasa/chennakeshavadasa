@@ -24,6 +24,7 @@
 ## 🌐 Interests Beyond Academics  
 
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games.
+- I'm a fan of Succession, Sopranos, HBO-Rome TV shows.
 
  ## 📈 GitHub Stats
  I'm just grinding !!! <br>
