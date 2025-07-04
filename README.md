@@ -4,7 +4,7 @@
 
 # About Me ☺️
 
-👋 Hello! I'm Nithin P, an enthusiastic B.Tech student in Electronics and Communication Engineering (ECE). My Research interests include ultra-low-power data converters, in-memory computing, Edge AI, and low-power PMICs.
+👋 Hello! I'm Nithin P, an enthusiastic B.Tech student in Electronics and Communication Engineering (ECE). My Research interests include Ultra-low-power data converters, Biomedical circuits & wearable sensors.
   
 ## 🔬 Academic Pursuits 
 
