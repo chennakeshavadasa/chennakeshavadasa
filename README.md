@@ -34,6 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&theme=dark&hide_border=true&title_color=FF5F7E&text_color=00F4F5&bg_color=00000000" />
 </div>
 
+<!--
+I am a Electronics and Communication Engineering  B.Tech graduate with a strong foundation in Analog/Mixed Signal IC Design, Digital Electronics, and Signal Processing. My Research interests include Ultra-low-power data converters, RF-IC Circuits and Systems Design, Microwave/mm-Wave/THz Systems, Biomedical circuits & wearable sensors. I aim to apply my knowledge and innovative mindset to contribute to cutting-edge Projects.
+-->
 
  ## 🚀 Projects 🚀
  
