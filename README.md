@@ -26,17 +26,6 @@
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games.
 - I'm a fan of Succession, The Office, The Sopranos, HBO-Rome, Dexter: Resurrection TV shows.
 
- ## 📈 GitHub Stats
- I'm just grinding !!! <br>
- <!--
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=FF5F7E&text_color=00F4F5&icon_color=FFC300&bg_color=00000000&ring_color=8B008B" alt="Chennakeshava's github stats" />
-  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&theme=dark&hide_border=true&title_color=FF5F7E&text_color=00F4F5&bg_color=00000000" />
-</div>
-
 <!--
 I am a Electronics and Communication Engineering  B.Tech graduate with a strong foundation in Analog/Mixed Signal IC Design, Digital Electronics, and Signal Processing. My Research interests include Ultra-low-power data converters, RF-IC Circuits and Systems Design, Microwave/mm-Wave/THz Systems, Biomedical circuits & wearable sensors. I aim to apply my knowledge and innovative mindset to contribute to cutting-edge Projects.
 -->
