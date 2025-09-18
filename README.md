@@ -14,7 +14,7 @@
 - I have worked on TSMC65, IHP130 SG13G2(BiCMOS), SKY130, GF180MCU, GPDK45, GPDK90, GPDK180, SCL180 Process nodes.
 - I'm fascinated about Finance sector especially with Data Analysis with the implication of ML. 
 
-## 🌐 Contact Me:
+## 🌐 Contact
 
 - **Email: [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com)**
 - **Linkedin: [Linkedin](https://www.linkedin.com/in/nithin-purushothama-70664727b/)**
