@@ -32,10 +32,10 @@
   <table style="border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&bg_color=0d1117,0d1117,1e3a8a&title_color=38bdf8&text_color=cbd5e1&icon_color=facc15&hide_border=true&include_all_commits=true&count_private=true&card_width=350" />
+            <img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&bg_color=000000,0a001a,1a0033&title_color=ff00ff&text_color=00ffff&icon_color=39ff14&hide_border=true&include_all_commits=true&count_private=true&card_width=350" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&bg_color=0d1117,1e3a8a,0d1117&title_color=38bdf8&text_color=cbd5e1&hide_border=true&count_private=true&card_width=300" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&bg_color=000000,1a0033,0a001a&title_color=ff00ff&text_color=00ffff&hide_border=true&count_private=true&card_width=300" />
       </td>
     </tr>
   </table>
