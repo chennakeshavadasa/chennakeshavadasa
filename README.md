@@ -26,12 +26,16 @@
 - I love watching **Anime**, **listening to music** and playing **Sid Meier's Civilization** and **Rome: Total War** video games.
 - I'm a fan of Succession, The Office, The Sopranos, HBO-Rome, Dexter: Resurrection TV shows.
 
-<!--
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chennakeshavadasa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chennakeshavadasa&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chennakeshavadasa&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
  ## 🚀 Projects 🚀
  
