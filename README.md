@@ -29,12 +29,12 @@
 ### GitHub Stats:
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&bg_color=0d1117,0d1117,1e3a8a&title_color=38bdf8&text_color=cbd5e1&icon_color=facc15&hide_border=true&include_all_commits=true&count_private=true&card_width=350" />
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&bg_color=0d1117,1e3a8a,0d1117&title_color=38bdf8&text_color=cbd5e1&hide_border=true&count_private=true&card_width=300" />
       </td>
     </tr>
