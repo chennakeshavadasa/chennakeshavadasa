@@ -41,8 +41,6 @@
   </table>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chennakeshavadasa&label=Profile%20views&color=0e75b6&style=flat" alt="chennakeshavadasa" /> </p>
-
  ## 🚀 Projects 🚀
  
 - All of my projects are available at : [Nithin's Projects](https://github.com/chennakeshavadasa?tab=repositories)
