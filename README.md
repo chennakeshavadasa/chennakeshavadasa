@@ -27,15 +27,9 @@
 - I'm a fan of Succession, The Office, The Sopranos, HBO-Rome, Dexter: Resurrection TV shows.
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chennakeshavadasa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chennakeshavadasa&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chennakeshavadasa&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&bg_color=0d1117,0d1117,1e3a8a&title_color=38bdf8&text_color=cbd5e1&icon_color=facc15&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chennakeshavadasa&background=0d1117&ring=38bdf8&fire=facc15&currStreakLabel=facc15&sideNums=38bdf8&dates=cbd5e1&sideLabels=facc15&stroke=0d1117&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&bg_color=0d1117,1e3a8a,0d1117&title_color=38bdf8&text_color=cbd5e1&hide_border=true&count_private=true)
 
  ## 🚀 Projects 🚀
  
