@@ -10,7 +10,7 @@
 
 - Completed my B.Tech degree in Electronics and Communication Engineering.
 - Actively learning Analog/RF/Mixed signal Design using Cadence Virtuoso and Open-source resources like NGspice, SKY130 PDK, GF180MCU PDK and IHP130 PDK.
-- I have worked on ADCs/DACs, Ring Amplifiers, Comparators, TIAs, SC-Amplifier, OTAs, LDOs and Bandgap References.
+- I have worked on Ring Amplifiers, Comparators, TIAs, SC-Amplifier, OTAs, LDOs and Bandgap References.
 - I have worked on TSMC65, IHP130 SG13G2(BiCMOS), SKY130, GF180MCU, GPDK45, GPDK90, GPDK180, SCL180 Process nodes.
 - I'm fascinated about Finance sector especially with Data Analysis with the implication of ML. 
 
