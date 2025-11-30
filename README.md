@@ -41,6 +41,16 @@
   </table>
 </div>
 
+## GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=chennakeshavadasa&show_icons=true&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=39ff14&hide_border=true&include_all_commits=true&count_private=true&card_width=350&cache_seconds=1800)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshavadasa&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&hide_border=true&count_private=true&card_width=300&cache_seconds=1800)
+
+</div>
+
+
  ## Projects 
  
 - All of my projects are available at : [Nithin's Projects](https://github.com/chennakeshavadasa?tab=repositories)
