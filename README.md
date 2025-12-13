@@ -1,5 +1,7 @@
 
-### Hi , I'm **Nithin P**, an Analog/Mixed signal IC Designer. My Research interests include Ultra-low-power data converters, Biomedical circuits & wearable sensors.
+### Hi , I'm **Nithin P**
+
+I'm an Analog/Mixed signal IC Designer. My Research interests include Ultra-low-power data converters, Biomedical circuits & wearable sensors.
   
 ## Academic Pursuits 
 
