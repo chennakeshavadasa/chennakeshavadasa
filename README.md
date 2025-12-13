@@ -25,7 +25,7 @@
 
 - I love watching **Anime**, **listening to music**, playing **Sid Meier's Civilization** and **Rome: Total War** video games.
 - I'm a fan of Succession, The Office, The Sopranos, Breaking Bad, Better Call Saul, HBO-Rome and Dexter: Resurrection TV shows.
-<!--
+
 ## GitHub Stats:
 
 <div align="center">
@@ -40,7 +40,6 @@
     </tr>
   </table>
 </div>
--->
 
  ## Projects 
  
