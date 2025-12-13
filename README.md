@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Nithin P</h1>
-<h3 align="center">Welcome to my Github Profile</h3>
-
-# About Me ☺️
 
 👋 I'm an Analog/Mixed signal IC Designer. My Research interests include Ultra-low-power data converters, Biomedical circuits & wearable sensors.
   
