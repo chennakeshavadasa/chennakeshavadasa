@@ -8,7 +8,7 @@ I'm an Analog/Mixed signal IC Designer. My Research interests include Ultra-low-
 - I have worked on Analog Blocks such as Switched-Capacitor Amplifiers, Ring Amplifiers, TIAs, Filters, LDOs, BGRs, OTAs.
 - I have worked on TSMC65, IHP130 SG13G2(BiCMOS), SKY130, GF180MCU, GPDK45, GPDK90, GPDK180, SCL180 Process nodes.
 - I'm fascinated about Finance sector especially with Data Analysis with the implication of ML.
-- 
+
 ## Interests Beyond Academics  
 
 - I love watching **Anime**, **listening to music**, playing **Sid Meier's Civilization** and **Rome: Total War** video games.
